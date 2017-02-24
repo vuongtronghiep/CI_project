@@ -1,0 +1,268 @@
+
+h4{
+	color: #FFFFFF;
+	margin: 20px 0px 0px 350px; 
+	position: absolute;
+}
+header{
+	width: 100%;
+	height: 70px;
+	background: #5820E6;
+}
+body{
+	font-family: sans-serif;
+	color: while;
+}
+.text1{
+	position: absolute;
+	margin: 7px 0px 0px 603px;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+.tongtien{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Arial;
+}
+.active{
+	background-color:#FC383B;
+}
+.logout{
+	width: 150px;
+	height: 40px;
+	margin:40px 0px 0px 1102px;
+	position: absolute;
+	text-align: center;
+}.tk1{
+	margin: 0px 0px 0px 100px;
+	position: absolute;
+}
+
+.logout a{
+color: red;
+}
+.logout a:hover{
+color: yellow;
+}
+
+nav ul{
+	list-style-type: none;
+	background-color: #1f5688;
+}
+nav ul li{
+	color: #f1f1f1;
+	display: inline-table;
+	width: 131px;
+	height: 40px;
+	line-height: 40px;
+	position: relative;
+	text-align: center;
+}
+nav ul li a{
+	color: #f1f1f1;
+	text-decoration: none;
+	display: block;
+}
+nav ul li a:hover{
+	background:#f1f1f1;
+	color: #333;
+	text-decoration: none;
+}
+
+footer{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	margin: 393px 0px 0px 0px;
+	border-top: 2px solid red;
+	position: absolute;
+}
+form{
+	position: absolute;
+	margin: 36px 0px 0px 1083px;
+}
+.formtk{
+	position: absolute;
+	margin: 36px 0px 0px 1083px;
+}
+.formtk2{
+	position: absolute;
+	margin: 36px 0px 0px 783px;
+}
+.form1{
+	position: absolute;
+	margin: 0px 0px 0px 600px;
+}
+.duyet{
+	position: absolute;
+	margin: 17px 0px 0px -147px;
+}
+.select{
+	position: absolute;
+	margin: -19px 0px 0px -341px;
+}
+
+.left{
+	width: 200px;
+	background-color: #BCA8F7;
+	height: 500px;
+	margin: -10px 0px 0px 0px;
+	position: absolute;
+}
+.shop-right{
+	width: 200px;
+	height:500px;
+	background-color: #BCA8F7;
+	margin:-10px 0px 0px 1166px;
+	position: absolute;
+}
+.main{
+	position: static;
+	margin: 50px 0px 0px 0px;
+}
+.main1{
+	position: static;
+	margin: 50px 0px 0px -870px;
+}
+.tk_ngay{
+	position: absolute;
+	width: 600px;
+margin: 120px 0px 0px 30px;
+
+}
+.tk_ky{
+	position: absolute;
+	width: 650px;
+margin: 120px 0px 0px 682px	;
+
+}
+.main2{
+	position: static;
+	margin: 50px 0px 0px -633px;
+}
+.tk{
+	margin: 0px 0px 0px 300px;
+	position: absolute;
+}
+.thongtin{
+	width: 970px;
+	height: 30px;
+	background-color: #E2DFEB;
+	margin-top: -9px;
+	color: red;
+	font-weight: bold;
+}
+table{
+	width: 100%;
+
+}
+table th,td{
+	padding: 8px;
+	text-align: center;
+}
+.phantrang{
+	
+	padding-left:10px; 
+	margin: -20px 0px 0px 400px;
+	position: absolute;
+}
+.mmain{
+	margin: 0px 0px 0px -2405px;
+	position: absolute;	
+
+}
+.sp{
+	position: absolute;
+	margin: -8px 0px 0px 2614px;
+}
+fieldset{
+	width: 700px;
+}
+.spham, .gia.tt .sx .km .bia .chitiet,.{
+	background-color: white;
+}
+.spham{
+	width: 279px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.gia{
+	width: 88px;
+	height: 30px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+}
+.tt{
+	width: 80px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.sx{
+	width: 150px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.bh{
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.tl{
+	margin: -27px 0px 0px 128px;
+	position: absolute;	
+	width: 100px;
+	height: 30px;
+}
+.km{
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.bia,.chitiet{
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	   width: 300px;
+}
+.text{
+	padding: 0px;
+	width: 120px;
+	margin: 3px 0px 0px 0px; 
+}
+.morong{
+	position: absolute;
+	margin: -17px 0px 0px 220px;
+}
+.them{
+	cursor:pointer;
+border:outset 1px #ccc;
+background:#999;
+color:#666;
+font-weight:bold;
+padding: 1px 2px;
+	margin-left: 160px;
+}
+.footthemsp{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	margin: 490px 0px 0px 0px;
+	border-top: 2px solid red;
+	position: absolute;
+}
+.error{
+	position: absolute;
+	margin: -19px 0 0 500px;
+	display: none;
+}
+.anh{
+	position: absolute;
+	margin: -85px 0px 0px 400px;
+}
+.anhct{
+	position: absolute;
+	margin: -20px 0px 0px 400px;
+}

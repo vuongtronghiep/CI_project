@@ -1,0 +1,124 @@
+
+h4{
+	color: #FFFFFF;
+	margin: 20px 0px 0px 350px; 
+	position: absolute;
+}
+header{
+	width: 100%;
+	height: 70px;
+	background: #5820E6;
+}
+body{
+	font-family: sans-serif;
+	color: while;
+}
+.active{
+	background-color:#FC383B;
+}
+.logout{
+	width: 150px;
+	height: 40px;
+	margin:40px 0px 0px 1102px;
+	position: absolute;
+	text-align: center;
+}
+.tk{
+	margin-left:200px;
+	position: absolute; 
+}
+.logout a{
+color: red;
+}
+.logout a:hover{
+color: yellow;
+}
+
+nav ul{
+	list-style-type: none;
+	background-color: #1f5688;
+}
+nav ul li{
+	color: #f1f1f1;
+	display: inline-table;
+	width: 131px;
+	height: 40px;
+	line-height: 40px;
+	position: relative;
+	text-align: center;
+}
+nav ul li a{
+	color: #f1f1f1;
+	text-decoration: none;
+	display: block;
+}
+nav ul li a:hover{
+	background:#f1f1f1;
+	color: #333;
+	text-decoration: none;
+}
+
+footer{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	margin: 393px 0px 0px 0px;
+	border-top: 2px solid red;
+	position: absolute;
+}
+
+
+.left{
+	width: 200px;
+	background-color: #BCA8F7;
+	height: 500px;
+	margin: -10px 0px 0px 0px;
+	position: absolute;
+}
+.shop-right{
+	width: 200px;
+	height:500px;
+	background-color: #BCA8F7;
+	margin:-10px 0px 0px 1166px;
+	position: absolute;
+}
+.main{
+	position: static;
+    margin-left: 97px;
+    width: 1151px;
+	height: 106px;
+	margin-top: 40px;
+}
+.thongtin{
+	width: 970px;
+	height: 30px;
+	background-color: #E2DFEB;
+	margin-top: -9px;
+	color: red;
+	font-weight: bold;
+}
+.submit_dm{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.phantrang{
+	margin: -25px 0px 0px 388px;
+	position: absolute;
+}
+.mmain{
+	margin: 0px 0px 0px -2405px;
+	position: absolute;	
+
+}
+.text1{
+	color: black;
+	margin-left: 200px;
+	font-weight: bold;
+	font-size: 23px;
+	font-family: Arial;
+}
+.error{
+	position: absolute;
+	margin: -19px 0 0 500px;
+	display: none;
+}

@@ -1,0 +1,64 @@
+ul li a:link,
+ul li a:active{
+	text-decoration: none;
+	color: #DB3B63;
+}
+ul li a:hover{
+	color: green;
+}
+ul li a:visited{
+	color:rgb();lue;
+}
+body{
+	font-family: Arial;
+	font-size: 13px;
+}
+form{
+	margin-top: 0px;
+	width: 400px;
+	margin-left: 480px;
+}
+footer{
+	
+	margin-left: 310px;
+	margin-top: -5px;
+}
+p{
+	text-align: center;
+}
+legend{
+	font-weight: bold;
+}
+lable{
+	display: block;
+	margin-top:10px;
+	overflow: hidden;
+}
+lable p{
+	float: left;
+	margin:0px;
+}
+lable input {
+	width: 170px;
+	padding: 3px 5px;
+}
+.taikhoan{
+	margin-left: 90px;
+}
+.matkhau{
+	margin-left: 124px;
+}
+.submit{
+	margin: 10px -20px 0px 238px;
+}
+ul{
+	margin:0px 0px 4px 142px;
+
+}
+ul li{
+ 	display: inline-block;
+
+}
+ul.error li{
+	color: red;
+}

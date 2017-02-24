@@ -1,0 +1,244 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h4{
+	color: #FFFFFF;
+	margin: 20px 0px 0px 350px; 
+	position: absolute;
+}
+header{
+	width: 100%;
+	height: 70px;
+	background: #5820E6;
+}
+body{
+	font-family: sans-serif;
+	color: while;
+}
+.logout{
+	width: 150px;
+	height: 40px;
+	margin:40px 0px 0px 1102px;
+	position: absolute;
+	text-align: center;
+}
+.maindm{
+	position: static;
+	margin-left: 200px;
+	width: 964px;
+	height: 106px;
+	margin-top: 40px;
+}
+.subsale{
+	position: absolute;
+	margin:-105px 0px 0px 328px;
+}
+.logout a{
+color: red;
+}
+.logout a:hover{
+color: yellow;
+}
+.active{
+	background-color:#FC383B;
+}
+
+nav ul{
+	list-style-type: none;
+	background-color: #1f5688;
+}
+nav ul li{
+	color: #f1f1f1;
+	display: inline-table;
+	width: 131px;
+	height: 40px;
+	line-height: 40px;
+	position: relative;
+	text-align: center;
+}
+nav ul li a{
+	color: #f1f1f1;
+	text-decoration: none;
+	display: block;
+}
+nav ul li a:hover{
+	background:#f1f1f1;
+	color: #333;
+	text-decoration: none;
+}
+
+footer{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	margin: 393px 0px 0px 0px;
+	border-top: 2px solid red;
+	position: absolute;
+}
+form{
+	position: absolute;
+	margin: 36px 0px 0px 1256px;
+}
+.tk{
+	margin: 0px 0px 0px 400px;
+	position: absolute;
+}
+.tk1{
+	margin: 0px 0px 0px 200px;
+	position: absolute;
+}
+.left{
+	width: 200px;
+	background-color: #BCA8F7;
+	height: 500px;
+	margin: -10px 0px 0px 0px;
+	position: absolute;
+}
+.shop-right{
+	width: 200px;
+	height:500px;
+	background-color: #BCA8F7;
+	margin:-10px 0px 0px 1166px;
+	position: absolute;
+}
+.main{
+	position: static;
+	margin-left: 200px;
+	width: 964px;
+	height: 106px;
+}
+.thongtin{
+	width: 970px;
+	height: 30px;
+	background-color: #E2DFEB;
+	margin-top: -9px;
+	color: red;
+	font-weight: bold;
+}
+table{
+	width: 100%;
+
+}
+table th,td{
+	padding: 8px;
+	text-align: center;
+}
+.phantrang{
+	width: 200px;
+	height: 100px;
+	margin: -33px 0px 0px 388px;
+	position: absolute;
+}
+.mmain{
+	margin: 0px 0px 0px -2405px;
+	position: absolute;	
+
+}
+.sp{
+	position: absolute;
+	margin: -8px 0px 0px 2614px;
+}
+fieldset{
+	width: 700px;
+}
+.spham, .gia.tt .sx .km .bia .chitiet,.{
+	background-color: white;
+}
+.spham{
+	width: 279px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.gia{
+	width: 88px;
+	height: 30px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+}
+.tt{
+	width: 80px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.sx{
+	width: 150px;
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.bh{
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.tl{
+	margin: -27px 0px 0px 128px;
+	position: absolute;	
+	width: 100px;
+	height: 30px;
+}
+.km{
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	height: 30px;
+}
+.bia,.chitiet{
+	margin: -27px 0px 0px 128px;
+	position: absolute;
+	   width: 300px;
+}
+.text{
+	padding: 0px;
+	width: 120px;
+	margin: 3px 0px 0px 0px; 
+}
+.morong{
+	position: absolute;
+	margin: -17px 0px 0px 220px;
+}
+.them{
+	cursor:pointer;
+border:outset 1px #ccc;
+background:#999;
+color:#666;
+font-weight:bold;
+padding: 1px 2px;
+	margin-left: 304px;
+	margin-top: -75px;
+	position: absolute;
+}
+.them1{
+	cursor:pointer;
+border:outset 1px #ccc;
+background:#999;
+color:#666;
+font-weight:bold;
+padding: 1px 2px;
+	margin-left: 304px;
+	margin-top: -5px;
+	position: absolute;
+}
+.footthemsp{
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	margin: 490px 0px 0px 0px;
+	border-top: 2px solid red;
+	position: absolute;
+}
+.error{
+	position: absolute;
+	margin: -19px 0 0 500px;
+	display: none;
+}
+.anh{
+	position: absolute;
+	margin: -95px 0px 0px 400px;
+}
+.anhct{
+	position: absolute;
+	margin: -34px 0px 0px 400px;
+}
